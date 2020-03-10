@@ -30,7 +30,7 @@
       <input type="text" name="url"/>
 
         
-       <input type ="submit" value="registrar" />
+       <input type ="submit" value="Registrar" />
 
 
     </fieldset>
